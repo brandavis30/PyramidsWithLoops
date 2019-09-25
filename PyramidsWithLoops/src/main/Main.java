@@ -4,7 +4,7 @@
  * Assignment 04
  * Due Date: September 26, 2019
  * Description: Printing pyramids using loops
- * Citations:
+ * Citations: http://www.java2s.com/Tutorials/Java/Statement/Java_for_loop.htm
  * Course: Java Programming
  * --------------------------------
  * Bill Nicholson
